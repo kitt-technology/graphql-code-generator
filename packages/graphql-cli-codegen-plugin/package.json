@@ -10,7 +10,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/dotansimha/graphql-code-generator.git",
-    "directory": "packages/graphql-cli-codegen"
+    "directory": "packages/graphql-cli-codegen-plugin"
   },
   "scripts": {
     "lint": "eslint **/*.ts",
